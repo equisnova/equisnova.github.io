@@ -1,2 +1,2 @@
-# equisnova.github.io
-Company website
+# Equis Nova
+Explore. Accelerate. Evolve.
